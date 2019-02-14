@@ -1,4 +1,5 @@
 Original at: 
+https://stackoverflow.com/questions/46287792/powershell-getting-gps-coordinates-in-windows-10-using-windows-location-api
 
 Add-Type -AssemblyName System.Device #Required to access System.Device.Location namespace
 $GeoWatcher = New-Object System.Device.Location.GeoCoordinateWatcher #Create the required object
