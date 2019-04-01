@@ -14,7 +14,7 @@
 .NOTES 
     File Name       :   imagemapper.ps1 
     Original Author :   Garrett Ed Pewitt 
-    Modified By     :   Ashley Andrews 
+    Modified By     :   Author 
     Requires        :   PowerShell v5 
 .LINK 
     http://www.forensicexpedition.com/tools/imagemapper.ps1 
