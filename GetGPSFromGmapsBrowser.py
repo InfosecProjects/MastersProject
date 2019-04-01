@@ -1,4 +1,4 @@
-my_file = open("/Users/Ash/Dropbox/IYM-011 - Project/Created Software/traceroute-master/Documents/history.html", "r")
+my_file = open("/Users/XXX/history.html", "r")
 contents = my_file.readlines()
 
 print('COORDINATES FROM GOOGLE MAPS: ')
