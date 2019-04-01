@@ -1,6 +1,6 @@
 import re
 import binascii
-file = open('/Users/Ash/Virtualbox VMs/Shared/chrome_1928.dmp')
+file = open('/Users/XXX/chrome_1928.dmp')
 content = file.readlines()
 
 for line in content:
